@@ -3,15 +3,11 @@
 </div>
 
 # Files & Folders on Taskbar
-[![Release](https://img.shields.io/github/v/release/d4rk-guy/Files-and-Folders-on-Taskbar?label=stable)](https://github.com/d4rk-guy/Files-and-Folders-on-Taskbar/releases/latest)
-[![Pre-release](https://img.shields.io/github/v/release/d4rk-guy/Files-and-Folders-on-Taskbar?include_prereleases&label=pre-release)](https://github.com/d4rk-guy/Files-and-Folders-on-Taskbar/releases)
 [![Windows](https://img.shields.io/badge/windows-10+-blue)]()
 [![Architecture](https://img.shields.io/badge/architecture-x64-blue)]()
-[![Downloads](https://img.shields.io/github/downloads/d4rk-guy/Files-and-Folders-on-Taskbar/total)](https://github.com/d4rk-guy/Files-and-Folders-on-Taskbar/releases)
 [![Stars](https://img.shields.io/github/stars/d4rk-guy/Files-and-Folders-on-Taskbar?style=flat&color=yellow)](https://github.com/d4rk-guy/Files-and-Folders-on-Taskbar/stargazers)
 [![Contributors](https://img.shields.io/github/contributors/d4rk-guy/Files-and-Folders-on-Taskbar)](https://github.com/d4rk-guy/Files-and-Folders-on-Taskbar/graphs/contributors)
 [![Last commit](https://img.shields.io/github/last-commit/d4rk-guy/Files-and-Folders-on-Taskbar)](https://github.com/d4rk-guy/Files-and-Folders-on-Taskbar/commits/main)
-[![Commits since latest release](https://img.shields.io/github/commits-since/d4rk-guy/Files-and-Folders-on-Taskbar/latest)](https://github.com/d4rk-guy/Files-and-Folders-on-Taskbar/commits/main)
 [![License](https://img.shields.io/github/license/d4rk-guy/Files-and-Folders-on-Taskbar)](https://github.com/d4rk-guy/Files-and-Folders-on-Taskbar/blob/main/LICENSE)
 
 A simple tool for pinning files and folders to the taskbar. It looks like this:
